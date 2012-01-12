@@ -25,6 +25,7 @@ This is a list of resources reference from my CodeMash 2012 presentation entitle
 * [Table to Chart, by Scott Jehl](http://jsbin.com/emexa4)
 * [Responsive Menu](https://github.com/mattkersley/Responsive-Menu)
 * [The Foundry](http://seesparkbox.com/foundry)
+* [Future Friendly](http://futurefriend.ly)
 
 ### Some People to Follow
 * [@scottjehl](http://twitter.com/scottjehl)
@@ -34,7 +35,10 @@ This is a list of resources reference from my CodeMash 2012 presentation entitle
 * [@yoavweiss](http://twitter.com/yoavweiss)
 * [@robertnyman](http://twitter.com/robertnyman)
 * [@necolas](http://twitter.com/necolas)
-* [@bencallahan](http://twitter.com/bencallahan)
+* [@yiibu](http://twitter.com/yiibu)
+* [@globalmoxie](http://twitter.com/globalmoxie)
+* [@brad_frost](http://twitter.com/brad_frost)
+* [and, occasionally, I say something smart](http://twitter.com/bencallahan)
 
 ### Thanks
 I truly owe a great amount of credit to my crew at [@hearsparkbox](http://twitter.com/hearsparkbox). These guys push me and encourage me and they're fantastic guys to bounce these ideas off of. [Check them out online](http://seesparkbox.com).
