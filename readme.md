@@ -26,6 +26,9 @@ This is a list of resources reference from my CodeMash 2012 presentation entitle
 * [Responsive Menu](https://github.com/mattkersley/Responsive-Menu)
 * [The Foundry](http://seesparkbox.com/foundry)
 * [Future Friendly](http://futurefriend.ly)
+* [Media Queries Gallery](http://mediaqueri.es)
+* [Responsive Images, by Filament Group](https://github.com/filamentgroup/Responsive-Images)
+* [Image Sizer, by Ethan Marcotte](http://unstoppablerobotninja.com/demos/resize/imgSizer.js)
 
 ### Some People to Follow
 * [@scottjehl](http://twitter.com/scottjehl)
